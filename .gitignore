@@ -2,3 +2,5 @@ Temp/
 Library/
 Logs/Packages-Update.log
 Packages/
+obj/
+.vs/
